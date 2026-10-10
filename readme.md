@@ -5,7 +5,7 @@
 A browser space shooter built with a single HTML file, an HTML canvas, and plain JavaScript. No libraries.
 
 🎬 **Demo video:** _add link here_  
-🕹️ **Play it live:** _add link here_
+🕹️ **Play it live:** [_add link here_](https://iamshubhdeep.github.io/Space-shooter/)
 
 ---
 
