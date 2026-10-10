@@ -1,4 +1,4 @@
-# 🚀 Space Shooter By Team SoulWare
+# 🚀 Space Shooter By Team Soulware
 
 > **Built entirely by voice.** Every line of this game started as something I said out loud, using [Wispr Flow](https://ref.wisprflow.ai/hhg).
 
